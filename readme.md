@@ -8,14 +8,14 @@ Step 1: Clone the Repository
 ----------------------------
 First, clone the repository to your local machine::
 
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    git clone https://github.com/nirans2002/python_robot_sim.git
+    cd python_robot_sim
 
 Step 2: Create a Virtual Environment
 ------------------------------------
 Create a virtual environment in the project directory::
 
-    python -m venv robot_sim_venv
+    python -m venv venv
 
 Step 3: Activate the Virtual Environment
 ----------------------------------------
